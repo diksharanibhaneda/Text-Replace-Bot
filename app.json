@@ -9,7 +9,7 @@
   ],
   "success_url": "https://telegram.com/DFF_TextReplaceBot",
   "website": "https://github.com/lx575",
-  "repository": "https://github.com/lx575/TG-Text-Replace-Bot",
+  "repository": "https://github.com/diksharanibhaneda/Text-Replace-Bot",
   "logo": "https://telegra.ph/file/a6881f1eb68bdb8ce5b88.jpg",
   "env": {
     "WEBHOOK": {
